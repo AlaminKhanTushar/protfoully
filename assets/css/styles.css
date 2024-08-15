@@ -421,6 +421,7 @@ header {
 }
 
 .cv {
+
   margin-top: 50px;
 }
 
@@ -688,12 +689,13 @@ header {
     margin-right: auto;
   }
   .home_img {
-    right: 15%;
+    top: 20%;
+    right: 5%;
     bottom: 25%;
   }
   .toggle-container {
     position: fixed;
-    right: 10px;
+    right: 5px;
     top: 10px;
   }
 }
